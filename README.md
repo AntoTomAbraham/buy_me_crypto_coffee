@@ -27,7 +27,7 @@ A Flutter package that helps you to integrate [Buy me a crypto coffee](https://w
 your code
 ```
 
-#### then you can use the Widget.
+#### Then you can use the Widget.
 
 ```dart
 Container(
@@ -39,6 +39,36 @@ Container(
 ```
 
 For a more in depth example please go to the Example Folder [Github](https://github.com/AntoTomAbraham/buy_me_crypto_coffee).
+
+## Configuration
+
+### IOS
+
+Add any URL schemes passed as LSApplicationQueriesSchemes entries in your Info.plist file.
+
+Example:
+
+```dart
+<key>LSApplicationQueriesSchemes</key>
+<array>
+  <string>https</string>
+  <string>http</string>
+</array>
+```
+
+### ANDROID
+
+Starting from API 30 Android requires package visibility configuration in your AndroidManifest.xml otherwise it will return false. A <queries> element must be added to your manifest as a child of the root element.
+
+```dart
+<queries>
+  <!-- If your app opens https URLs -->
+  <intent>
+    <action android:name="android.intent.action.VIEW" />
+    <data android:scheme="https" />
+  </intent>
+</queries>
+```
 
 ## About the Developer
 
