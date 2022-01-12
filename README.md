@@ -11,29 +11,32 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+# Buy me a crypto coffee
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+A Flutter package that helps you to integrate Buy_Me_A_Crypto_Coffee widget in your flutter app.
+
+<!-- [](gif/animated_demo.gif) -->
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+### You have to import
 
 ```dart
-const like = 'sample';
+your code
 ```
 
-## Additional information
+### then you can use the Widget.
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+```dart
+your code
+```
+
+For a more in depth example please go to the Example Folder [Github](https://github.com/AntoTomAbraham/buy_me_crypto_coffee).
+
+## About the Developer
+
+[Twitter](https://mobile.twitter.com/AntoTomAbraham)
+[Linkedin](https://www.linkedin.com/in/anto-tom-abraham-6234441a8/)
+[Github](https://github.com/AntoTomAbraham)
