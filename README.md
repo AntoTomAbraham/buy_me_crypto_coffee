@@ -15,7 +15,7 @@ and the Flutter guide for
 
 ## Features
 
-A Flutter package that helps you to integrate Buy_Me_A_Crypto_Coffee widget in your flutter app.
+A Flutter package that helps you to integrate [Buy me a crypto coffee](https://www.buymeacryptocoffee.xyz/) widget in your flutter app.
 
 <!-- [me](gif/animated_demo.gif) -->
 
