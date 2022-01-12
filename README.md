@@ -25,7 +25,7 @@ A Flutter package that helps you to integrate [Buy me a crypto coffee](https://w
 #### You have to import
 
 ```dart
-your code
+import 'package:buy_me_a_crypto_coffee/buy_me_a_crypto_coffee.dart';
 ```
 
 #### Then you can use the Widget.
