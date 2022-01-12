@@ -17,6 +17,7 @@ and the Flutter guide for
 
 A Flutter package that helps you to integrate [Buy me a crypto coffee](https://www.buymeacryptocoffee.xyz/) widget in your flutter app.
 
+![Demo Image](https://drive.google.com/file/d/1lfq5QitwgA3o2-39md-wJjFmD3rYcfq5/view?usp=sharing)
 <!-- [me](gif/animated_demo.gif) -->
 
 ## Getting started
