@@ -17,20 +17,25 @@ and the Flutter guide for
 
 A Flutter package that helps you to integrate Buy_Me_A_Crypto_Coffee widget in your flutter app.
 
-<!-- [](gif/animated_demo.gif) -->
+<!-- [me](gif/animated_demo.gif) -->
 
 ## Getting started
 
-### You have to import
+#### You have to import
 
 ```dart
 your code
 ```
 
-### then you can use the Widget.
+#### then you can use the Widget.
 
 ```dart
-your code
+Container(
+    width: 180,
+    child: BuyMeACryptoCoffeeWidget(
+    address: "Enter your address here",
+            ),
+        )
 ```
 
 For a more in depth example please go to the Example Folder [Github](https://github.com/AntoTomAbraham/buy_me_crypto_coffee).
